@@ -1,0 +1,16 @@
+.dmain{
+    margin-left: 500px;
+}
+table {
+    width: 50%;
+    border: 3px solid black;
+     border-collapse:initial; 
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
